@@ -1,4 +1,5 @@
-export class FaceSnap {
+export class FaceSnapModel {
+    id!: number;
     title!: string;
     desciption!: string;
     imgUrl!: string;
