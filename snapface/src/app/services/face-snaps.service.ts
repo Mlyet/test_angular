@@ -12,7 +12,7 @@ export class FaceSnapsService {
         {
             id: 1,
             title: 'Début sur Angular',
-            desciption: "J'espère que c'est bien !",
+            description: "J'espère que c'est bien !",
             imgUrl: "https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg",
             createDate: new Date(),
             snaps: 150,
@@ -21,7 +21,7 @@ export class FaceSnapsService {
           {
             id: 2,
             title: 'Réutilisation du component',
-            desciption: "J'espere que cela va marcher 🤞",
+            description: "J'espere que cela va marcher 🤞",
             imgUrl: "https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg",
             createDate: new Date(),
             snaps: 0,
@@ -30,7 +30,7 @@ export class FaceSnapsService {
           {
             id: 3,
             title: '3 images identiques',
-            desciption: "Je sais il y a trois images identiques mais laquelles est la vrai ?",
+            description: "Je sais il y a trois images identiques mais laquelles est la vrai ?",
             imgUrl: "https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg",
             createDate: new Date(),
             snaps: 0
@@ -38,7 +38,7 @@ export class FaceSnapsService {
           {
             id: 4,
             title: '3 images identiques',
-            desciption: "Je sais il y a trois images identiques mais laquelles est la vrai ?",
+            description: "Je sais il y a trois images identiques mais laquelles est la vrai ?",
             imgUrl: "https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg",
             createDate: new Date(),
             snaps: 0
